@@ -1,5 +1,5 @@
 import { Outlet } from "react-router-dom";
-import styled, { ThemeProvider, createGlobalStyle } from "styled-components";
+import { ThemeProvider, createGlobalStyle } from "styled-components";
 import { lightTheme } from "./theme";
 
 const Globalstyle = createGlobalStyle`
